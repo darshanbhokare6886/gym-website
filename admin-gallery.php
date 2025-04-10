@@ -143,8 +143,8 @@
     <!-- Navigation Bar -->
     <nav class="navbar navbar-expand-lg navbar-dark">
         <div class="container mx-auto">
-            <img src="logo.png" alt="Fitness Fusion Logo" class="h-12 w-auto mr-2" />
-            <a class="navbar-brand font-bold" href="#" style="font-size: 24px">Fitness Fusion</a>
+            <img src="new_logo.png" alt="BattleAxe Logo" class="h-12 w-auto mr-2" />
+            <a class="navbar-brand font-bold" href="#" style="font-size: 24px">BattleAxe</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>

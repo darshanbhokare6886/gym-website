@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>FitnessFusion</title>
+  <title>BattleAxe</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="user-home-pop.css">
   <!-- Bootstrap CSS -->
@@ -128,8 +128,8 @@
     <!-- Navigation Bar -->
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
       <div class="container mx-auto">
-        <img src="logo.png" alt="Fitness Fusion Logo" class="h-12 w-auto mr-2">
-        <a class="navbar-brand font-bold" href="#" style="font-size: 24px;">Fitness Fusion</a>
+        <img src="new_logo.png" alt=" BattleAxe Logo" class="h-12 w-auto mr-2">
+        <a class="navbar-brand font-bold" href="#" style="font-size: 24px;">BattleAxe</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
           aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -179,7 +179,7 @@
       <!-- Popup content -->
       <div class="popup-content">
         <!-- <h2 class="head">Welcome to!</h2> -->
-        <h2 class="titl">FITNESS FUSION</h2>
+        <h2 class="titl">BattleAxe Gym</h2>
         <?php
         // Step 1: Establish a connection to your MySQL database
         $servername = "localhost"; // Replace with your server name
@@ -244,7 +244,7 @@
 
 <section>
   <section class="parallax-1">
-    <p class="para1">FITNESS FUSION GYM,PUNE</p>
+    <p class="para1">BATTLEAXE GYM, NASHIK</p>
     <h1 class="heading">
       THE GYM FOR HIGH IMPACT ATHLETES
     </h1>
@@ -369,7 +369,7 @@
   <!-- Copyright -->
   <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.05);">
     © 2020 Copyright:
-    <a class="text-body" href="user-home.php">FitnessFusion.com</a>
+    <a class="text-body" href="user-home.php">BattleAxe.com</a>
   </div>
   <!-- Copyright -->
 </footer>

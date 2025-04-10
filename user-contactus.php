@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Fitness Fusion - Contact Us</title>
+  <title>BattleAxe - Contact Us</title>
   <!-- Bootstrap CSS -->
   <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
   <!-- Tailwind CSS -->
@@ -170,8 +170,8 @@ $('#get-in-touch').on({
 <!-- Navigation Bar -->
 <nav class="navbar navbar-expand-lg navbar-dark">
   <div class="container mx-auto">
-    <img src="logo.png" alt="Fitness Fusion Logo" class="h-12 w-auto mr-2" style="margin-left: -140px;">
-    <a class="navbar-brand font-bold" href="#" style="font-size: 24px;margin-left: -10px;">Fitness Fusion</a>
+    <img src="new_logo.png" alt="BattleAxen Logo" class="h-12 w-auto mr-2" style="margin-left: -140px;">
+    <a class="navbar-brand font-bold" href="#" style="font-size: 24px;margin-left: -10px;">BattleAxe</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -294,7 +294,7 @@ $('#get-in-touch').on({
         <p><b><i><h4>OR</h4></i></b></p>
         <br>
         <p style="font-size: 20px;">JUST SEND US AN EMAIL ON</p>
-        <p><strong><a href="mailto:fitnessfusioninfo@vit.com" style="color: #ffffff;">fitnessfusioninfo@vit.com</a></strong></p>
+        <p><strong><a href="mailto:BattleAxe@vit.com" style="color: #ffffff;">BattleAxeinfo@vit.com</a></strong></p>
         <p>CONNECT WITH US ON</p>
 
         <div class="icons">
@@ -369,7 +369,7 @@ $('#get-in-touch').on({
           <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
             <!-- Content -->
             <h6 class="text-uppercase fw-bold mb-4" style="color: white;">
-              <i class="fas fa-gem me-3"></i>Fitness Fusion
+              <i class="fas fa-gem me-3"></i>BattleAxe
             </h6>
             <p style="color: white;">
               Fuse your fitness.
@@ -404,7 +404,7 @@ $('#get-in-touch').on({
             <p><i class="fas fa-home me-3"></i> Vishwakarma Institute of Technology, Pune</p>
             <p>
               <i class="fas fa-envelope me-3"></i>
-              fitnessfusion@vit.com
+              BattleAxe@vit.com
             </p>
             <p><i class="fas fa-phone me-3"></i> + 91 234 567 88</p>
           </div>
@@ -419,7 +419,7 @@ $('#get-in-touch').on({
     <!-- Copyright -->
     <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05); color:#fff ">
       © 2024 Copyright:
-      <a class="text-reset fw-bold" style="color: white;" href="user-home.php">FitnessFusion.com</a>
+      <a class="text-reset fw-bold" style="color: white;" href="user-home.php">BattleAxe.com</a>
     </div>
     <!-- Copyright -->
   </footer>

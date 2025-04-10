@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Fitness Fusion - About Us</title>
+  <title>BattleAxe - About Us</title>
   <!-- Bootstrap CSS -->
   <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" />
   <!-- Tailwind CSS -->
@@ -102,8 +102,8 @@
   <!-- Navigation Bar -->
   <nav class="navbar navbar-expand-lg navbar-dark">
     <div class="container mx-auto">
-      <img src="logo.png" alt="Fitness Fusion Logo" class="h-12 w-auto mr-2" />
-      <a class="navbar-brand font-bold" href="#" style="font-size: 24px">Fitness Fusion</a>
+      <img src="new_logo.png" alt="BattleAxe Logo" class="h-12 w-auto mr-2" />
+      <a class="navbar-brand font-bold" href="#" style="font-size: 24px">BattleAxe</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
         aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -256,7 +256,7 @@
           <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
             <!-- Content -->
             <h6 class="text-uppercase fw-bold mb-4" style="color: white">
-              <i class="fas fa-gem me-3"></i>Fitness Fusion
+              <i class="fas fa-gem me-3"></i>BattleAxe
             </h6>
             <p style="color: white">
               Fuse your fitness. Get the results you crave in a fun and
@@ -292,7 +292,7 @@
             </p>
             <p>
               <i class="fas fa-envelope me-3"></i>
-              fitnessfusion@vit.com
+              BattleAxe@vit.com
             </p>
             <p><i class="fas fa-phone me-3"></i> + 91 234 567 88</p>
           </div>
@@ -307,7 +307,7 @@
     <!-- Copyright -->
     <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05); color: #fff">
       © 2024 Copyright:
-      <a class="text-reset fw-bold" style="color: white" href="user-home.php">FitnessFusion.com</a>
+      <a class="text-reset fw-bold" style="color: white" href="user-home.php">BattleAxe.com</a>
     </div>
     <!-- Copyright -->
   </footer>

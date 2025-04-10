@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Fitness Fusion - About Us</title>
+  <title>BattleAxe - About Us</title>
   <!-- Bootstrap CSS -->
   <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
   <!-- Tailwind CSS -->
@@ -192,8 +192,8 @@
     <!-- Navigation Bar -->
     <nav class="navbar navbar-expand-lg navbar-dark">
       <div class="container mx-auto">
-        <img src="logo.png" alt="Fitness Fusion Logo" class="h-12 w-auto mr-2">
-        <a class="navbar-brand font-bold" href="#" style="font-size: 24px;">Fitness Fusion</a>
+        <img src="new_logo.png" alt="BattleAxe Logo" class="h-12 w-auto mr-2">
+        <a class="navbar-brand font-bold" href="#" style="font-size: 24px;">BattleAxe</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
           aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -246,7 +246,7 @@
       <div class="container mx-auto flex flex-col md:flex-row justify-between items-center">
 
         <div class="md:w-1/2 mb-6 md:mb-0">
-          <img src="gym.jpg" alt="Fitness Gym" class="img-fluid rounded-lg shadow-lg img-hover" style="width: 600px;">
+          <img src="gym.jpg" alt="BattleAxe Gym" class="img-fluid rounded-lg shadow-lg img-hover" style="width: 600px;">
         </div>
 
 
@@ -254,12 +254,12 @@
           <h2 class="text-4xl font-bold mb-6 cursor-pointer" onclick="toggleHistory()">About Gym</h2>
           <p class="text-lg leading-relaxed" style="font-size: 25px;"><b>Founded with a vision to revolutionize fitness,
               our gym has been a cornerstone of the community, catering to fitness enthusiasts of all levels.</p></b>
-          <p id="history" class="hidden mt-8 text-lg">Fitness Fusion Gym, established in 2008 in Pune, has been at the
+          <p id="history" class="hidden mt-8 text-lg">BattleAxe Gym, established in 2008 in Pune, has been at the
             forefront of promoting health and wellness in the community. What began as a humble endeavor has flourished
             into a renowned fitness destination with six branches across Pune. Our journey is rooted in a commitment to
             providing top-notch facilities, expert guidance, and a supportive environment for individuals to achieve
             their fitness goals. With a diverse range of classes, state-of-the-art equipment, and a team of experienced
-            trainers, we cater to the needs of fitness enthusiasts of all levels. At Fitness Fusion Gym, we believe in
+            trainers, we cater to the needs of fitness enthusiasts of all levels. At BattleAxe Gym, we believe in
             the fusion of fitness disciplines, innovation, and personalized attention to empower our members to lead
             healthier, happier lives.</p>
         </div>
@@ -367,7 +367,7 @@
             <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
               <!-- Content -->
               <h6 class="text-uppercase fw-bold mb-4" style="color: white;">
-                <i class="fas fa-gem me-3"></i>Fitness Fusion
+                <i class="fas fa-gem me-3"></i>BattleAxe
               </h6>
               <p style="color: white;">
                 Fuse your fitness.
@@ -402,7 +402,7 @@
               <p><i class="fas fa-home me-3"></i> Vishwakarma Institute of Technology, Pune</p>
               <p>
                 <i class="fas fa-envelope me-3"></i>
-                fitnessfusion@vit.com
+                BattleAxe@vit.com
               </p>
               <p><i class="fas fa-phone me-3"></i> + 91 234 567 88</p>
             </div>
@@ -417,7 +417,7 @@
       <!-- Copyright -->
       <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05); color:#fff ">
         © 2024 Copyright:
-        <a class="text-reset fw-bold" style="color: white;" href="user-home.php">FitnessFusion.com</a>
+        <a class="text-reset fw-bold" style="color: white;" href="user-home.php">BattleAxe.com</a>
       </div>
       <!-- Copyright -->
     </footer>
